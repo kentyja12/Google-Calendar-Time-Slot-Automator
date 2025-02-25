@@ -1,0 +1,2 @@
+GOOGLE_CALENDAR_ID=<Google calendar id| Most people probably use gmail>
+GOOGLE_AUTH_PATH=<path to Google service account key>.json
